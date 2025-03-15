@@ -2,10 +2,10 @@
 
 An efficient re-implementation of Resnet-18 Architecture that produces higher test accuracy with under 5 million parameters.
 
-Team Name: [object Object]
-Team Members: Kevin Peter (kevin.peter@nyu.edu)
-NetID: kpk4354
-Kaggle Competition: [https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1)
+- Team Name: [object Object]
+- Team Members: Kevin Peter (kevin.peter@nyu.edu)
+- NetID: kpk4354
+- Kaggle Competition: [https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1](https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1)
 
 [Click here to view the notebook](./Deep_Learning_Spring_2025_CIFAR_10_classification.ipynb)
 
